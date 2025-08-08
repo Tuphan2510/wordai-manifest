@@ -1,0 +1,8 @@
+{
+    "addins": [
+      {
+        "manifest": "manifest.xml"
+      }
+    ]
+  }
+  
